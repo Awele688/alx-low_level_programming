@@ -7,7 +7,7 @@ int main(void)
 {
 	char lowerc;
 
-	for (lowerc = 'z'; lowerc <= 'a'; lowerc--)
+	for (lowerc = 'z'; lowerc >= 'a'; lowerc--)
 		putchar(lowerc);
 
 	putchar('\n');
