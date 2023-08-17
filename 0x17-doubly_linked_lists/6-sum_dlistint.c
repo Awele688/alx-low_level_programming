@@ -4,8 +4,8 @@
  * sum_dlistint - returns sum of all data (n)
  * of a doubly linked list
  *
- * @head: head 
- * Return: sum 
+ * @head: head
+ * Return: sum
  */
 int sum_dlistint(dlistint_t *head)
 {
